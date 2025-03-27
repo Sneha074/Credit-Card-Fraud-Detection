@@ -60,4 +60,5 @@ The effectiveness of models was analyzed through precision, recall, and F1-score
 * One-Class SVM struggled due to the high-dimensional feature space.
 * Fraud detection models showed promising results but need further optimization using hyperparameter tuning and feature engineering for real-world deployment.
 
+To run this project, download the jupyter notebook file(.ipynb) and run the code. 
 
